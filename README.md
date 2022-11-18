@@ -1,4 +1,6 @@
-Hey there 👋
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)]
+
+Hey there 👋🏽
 
 I am a systems engineer, I am interested in improving my skills as a programmer as well as learning new tools, frameworks and methodologies to work in a team.
 
