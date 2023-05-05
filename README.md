@@ -1,4 +1,4 @@
-![Juan Pablo's GitHub Banner](./assets/Banner.png)
+![Juan Pablo's GitHub Banner](./assets/IMG_0113.jpg)
 
 Hey there 👋🏽
 
