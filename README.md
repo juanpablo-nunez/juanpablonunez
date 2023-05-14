@@ -10,7 +10,7 @@ I’m Juan Pablo, a junior backend engineer. I am interested in improving my ski
 <br>
 
 <a href="https://github.com/juanpablo-nunez">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablo-nunez&hide=html,css,smali,cMake&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpablo-nunez&hide=html,css,smali,c#,cMake&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/juanpablo-nunez">
